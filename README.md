@@ -1,2 +1,5 @@
 # Nodejs-ejs
-nodejs + ejs
+module 
+express
+express-session
+bodyParser
